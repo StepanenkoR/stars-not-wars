@@ -1,0 +1,16 @@
+{
+  "world_trend": [
+    { "year": 2020, "military_usd": 1980000000000, "rd_usd": null },
+    { "year": 2021, "military_usd": 2110000000000, "rd_usd": null },
+    { "year": 2022, "military_usd": 2240000000000, "rd_usd": null },
+    { "year": 2023, "military_usd": 2440000000000, "rd_usd": null },
+    { "year": 2024, "military_usd": 2718000000000, "rd_usd": null }
+  ],
+  "top_military_spenders": [
+    { "name": "USA", "value": 968000000000 },
+    { "name": "China", "value": 326000000000 },
+    { "name": "Russia", "value": 149000000000 },
+    { "name": "Germany", "value": 88500000000 },
+    { "name": "India", "value": 86000000000 }
+  ]
+}
