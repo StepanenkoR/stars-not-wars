@@ -4,7 +4,7 @@
   "world": {
     "military_spending_usd": 2718000000000,
     "military_spending_per_second_usd": 86154,
-    "rd_spending_usd": null,
+    "rd_spending_usd": 2100000000000,
     "life_expectancy_years": null
   },
   "sources": {
@@ -13,8 +13,9 @@
       "status": "verified"
     },
     "rd_spending_usd": {
-      "name": null,
-      "status": "source needed"
+      "name": "World Bank WDI: GB.XPD.RSDV.GD.ZS + NY.GDP.MKTP.CD",
+      "status": "estimated",
+      "method": "Estimated from R&D expenditure as % of GDP and world GDP"
     },
     "life_expectancy_years": {
       "name": null,
