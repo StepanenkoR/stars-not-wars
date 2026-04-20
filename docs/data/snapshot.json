@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-04-20T12:00:00Z",
+  "year": 2024,
+  "world": {
+    "military_spending_usd": 2718000000000,
+    "military_spending_per_second_usd": 86154,
+    "rd_spending_usd": null,
+    "life_expectancy_years": null
+  },
+  "sources": {
+    "military_spending_usd": {
+      "name": "SIPRI Trends in World Military Expenditure 2024",
+      "status": "verified"
+    },
+    "rd_spending_usd": {
+      "name": null,
+      "status": "source needed"
+    },
+    "life_expectancy_years": {
+      "name": null,
+      "status": "source needed"
+    }
+  }
+}
